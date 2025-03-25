@@ -4,4 +4,4 @@
 Swelshinian Things
 
 
-- [Swelshin's Official Newsletter]("BOS/")
+- [Swelshin's Official Newsletter](BOS/)
